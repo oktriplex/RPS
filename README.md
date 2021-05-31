@@ -1,2 +1,3 @@
-# RPS
-Rock, paper, scissors!
+# RPS/КНБ
+### Rock, paper, scissors // Камень, ножницы, бумага.
+
