@@ -81,7 +81,7 @@ public class RPS {
                 int y = getAnswer();
                 System.out.println("You choose: Paper");
                 if (y == 0) {
-                    System.out.println("The opponent chose: Камень");
+                    System.out.println("The opponent chose: Rock");
                     System.out.println("You won. Game over.");
                 } else if (y == 1) {
                     System.out.println("You and your opponent have the same signs. Game over.");
